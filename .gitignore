@@ -34,3 +34,17 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Bolt
+Ludiq*
+bin/
+obj/
+Temp/
+Obj/
+Library/
+AssetStoreTools*
+.vs/
+.vscode/
+*.suo
+*.sln
+*.csproj
